@@ -1,2 +1,2 @@
 # Information-Processing
-Code for Information Processing course
+Code for Information Processing course @ FER
